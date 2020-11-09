@@ -1,6 +1,0 @@
-express
-body-parser
-cors
-mongoose
-
-nodemon: to monitor
